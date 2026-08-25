@@ -1,0 +1,10 @@
+{
+  "name": "Remix CHERRY TOST",
+  "description": "Coffee Business Operating System - SaaS integral de gestión comercial, operativa, máquinas de café, producción, logística y CRM para tostadores de café",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
